@@ -56,6 +56,13 @@
     <Compile Include="Assets\LoadWWWImage.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Display room\Shaders\Glass.shader" />
+    <None Include="Assets\Display room\Shaders\Lamp metal.shader" />
+    <None Include="Assets\Display room\READ ME.txt" />
+    <None Include="Assets\Display room\Shaders\Glass ASE.shader" />
+    <None Include="Assets\Display room\Shaders\wood_ground.shader" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>D:\Program\UnityAll\2021.1.17f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
